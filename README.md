@@ -357,3 +357,5 @@ code html card-footer
 
 # Full layout
 ![img](img/ss12.png)
+
+![img](img/10.png)
